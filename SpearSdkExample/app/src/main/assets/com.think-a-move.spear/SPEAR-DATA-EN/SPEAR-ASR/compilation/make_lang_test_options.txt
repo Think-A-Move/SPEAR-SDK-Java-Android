@@ -1,0 +1,3 @@
+position-dependent-phones=false
+share-silence-phones=true
+oov-word='<UNK>'

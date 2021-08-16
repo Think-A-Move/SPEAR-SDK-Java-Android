@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpearSdkExample</string>
+    <string name="alert_grammar_text">"Please say \&quot;HEY SPEAR\&quot; to change grammar to Demo Commands"</string>
+    <string name="stop_grammar_text">"Please say the following commands:
+        1. Say \&quot;{stop_spear}\&quot; to put back SPEAR in wake-up grammar OR
+        2. {available_commands}"</string>
+    <string name="switch_grammar_text">"Please say the following commands:
+        1. Say \&quot;{stop_spear}\&quot; to put back SPEAR in wake-up grammar OR
+        2. Say \&quot;{switch_grammar}\&quot; to switch to pre-compiled aviation commands grammar OR
+        3. Say \&quot;{switch_label_grammar}\&quot; to switch to label commands grammar OR
+        4. {available_commands}"</string>
+    <string name="expiration_terminate_text">"Trial time is used up! Please restart the Demo application."</string>
+    <string name="other_terminate_text">"Recognition engine is terminated unexpectedly, please contact developer for help."</string>
+</resources>
