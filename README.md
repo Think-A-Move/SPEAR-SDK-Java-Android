@@ -1,6 +1,6 @@
-# SPEAR-SDK-Android
+# SPEAR-SDK-Java-Android
 
-SPEAR-SDK-Android is SPEAR's software development kit that allows you to integrate SPEAR-ASR and SPEAR-WakeUp to voice-enable your Android applications. The SPEAR-ASR engine will terminate after 10 minutes of processing speech. SPEAR-WakeUp will not terminate after 10 minutes. For continuous operation, contact us at info@think-a-move.com. 
+SPEAR-SDK-Java-Android is SPEAR's software development kit that allows you to integrate SPEAR-ASR and SPEAR-WakeUp to voice-enable your Android applications. The SPEAR-ASR engine will terminate after 10 minutes of processing speech. SPEAR-WakeUp will not terminate after 10 minutes. For continuous operation, contact us at info@think-a-move.com. 
 
 By cloning this repository and downloading SPEAR-SDK library you agree to the [SPEAR-SDK EULA](./LICENSE).
 
